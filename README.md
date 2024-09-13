@@ -1,2 +1,2 @@
 # Tronhkthn
-Trying my luck on a blokchain hackathon
+Trying my luck on a blockchain hackathon
